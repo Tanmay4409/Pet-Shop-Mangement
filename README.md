@@ -1,11 +1,11 @@
 Welcome to the Pet Shop Management System(Working Prototype)
 
-The Pet Shop Management System (PSMS) is a sophisticated software solution tailored to streamline the operations of pet shops, offering comprehensive functionalities for both customers and administrators alike. Designed with a user-friendly interface, it facilitates seamless navigation and accessibility for users at every level. For customers, the system provides a platform to register securely, enabling them to explore an extensive inventory of pets and accessories.
+The Pet Shop Management System (PSMS) is a sophisticated software solution tailored to streamline the operations of pet shops, offering comprehensive functionalities for both customers and administrators alike. Designed with a user-friendly interface, it facilitates seamless navigation and accessibility for users at every level. For customers, the system provides a platform to register securely, enabling them to explore an extensive inventory of pets and accessories.For Admin A clean UI for clean efficent Customer Mangement and Inventory Mangement.
 
 Features:
 1.	Simple and user-friendly interface: The Web app is very easy to use with a simple interface and easy navigation.
-2.	Quick and efficient cover page creation: Create cover pages quickly and easily by entering some details.
-3.	Downloadable PDF output: Download the generated cover page in PDF format for easy sharing and printing.
+2.	Customer Module : It enables customer to create,login account and Also a forget password option And 3 options 1.To Buy Pets 2.To Buy Pet Accessories 3.Feedback (Also having seperate cart management for both items seperately With Combined table for both cart to view the total price of items)
+3.	Admin Module : It enables Admin to Edit/View customer details,Alter Pet prices,Accessories Prices and Edit/View Feedbacks.
 
 Contributing:
 We welcome contributions from the community to make our app even better! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. We appreciate your support in improving the Our Pet shop Management System for everyone.
