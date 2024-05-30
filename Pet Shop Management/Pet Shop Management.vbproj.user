@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Accessories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_accessories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_pet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Carts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Create Account.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forget_Password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home_Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
